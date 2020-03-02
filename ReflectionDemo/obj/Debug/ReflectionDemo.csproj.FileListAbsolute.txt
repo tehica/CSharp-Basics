@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.Form1.resources
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

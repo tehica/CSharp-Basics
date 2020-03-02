@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.exe.config
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.exe
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.pdb
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.exe
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.pdb
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Korisnik\source\repos\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csproj.CopyComplete
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.exe.config
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.exe
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\bin\Debug\Vjezba_ConApp.pdb
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csprojAssemblyReference.cache
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csproj.CoreCompileInputs.cache
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.csproj.CopyComplete
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.exe
+C:\TONI\Vjezba_ConApp\Vjezba_ConApp\obj\Debug\Vjezba_ConApp.pdb
